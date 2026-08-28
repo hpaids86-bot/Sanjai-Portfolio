@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#17231A"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" stroke="#A8C3A0" stroke-opacity="0.3" stroke-width="1.5"/>
+  
+  <!-- Minimal SR Monogram in Neon Lime -->
+  <text x="32" y="42" font-family="'Space Grotesk', Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#C8FF3D" text-anchor="middle" letter-spacing="-1">SR</text>
+  
+  <!-- Accent glowing dot -->
+  <circle cx="50" cy="18" r="3.5" fill="#39FF88"/>
+</svg>
