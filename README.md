@@ -1,7 +1,7 @@
 # Sanjai R — Premium AI & Data Science Portfolio
 
 A production-ready personal portfolio website for **Sanjai R**, B.Tech Artificial Intelligence and Data Science student. Designed with an **"Organic Intelligence"** aesthetic combining editorial minimalism, natural warm tones, futuristic data visualizations, and subtle neon green accents.
-
+Live Link : https://sanjaiportfolio-beige.vercel.app/
 ---
 
 ## 🎨 Visual Identity & Color System
